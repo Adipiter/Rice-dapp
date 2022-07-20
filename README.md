@@ -1,4 +1,4 @@
-# Deploy
+# Deploi
 Building this project on polygon Mumbai testnet for [Ethernals HACKATHON](https://ethernals.devfolio.co/) <br/>
 Check ours project's page in [Devfolio](https://devfolio.co/submissions/rice-070f)  <br/>
 Deploy on both [Spheron](https://rice-lopwzp.argoapp.io) & [Heroku](https://rice-skdue.herokuapp.com/swap) <br/>

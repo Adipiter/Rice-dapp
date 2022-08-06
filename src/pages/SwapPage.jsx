@@ -171,7 +171,7 @@ const SwapPage = () => {
       {(status !== "Install MetaMask") &&
       <div>
       <div className='swap'> 
-        <div style={{padding: "20px", fontSize: "30px"}}>Swap</div>
+        <div style={{padding: "20px", fontSize: "30px"}}>Swappppppp</div>
         <form onSubmit={onSwap}> 
           <div className='swap-div'>
             <input className='swap-input' id='value' placeholder='amount token' type='number' step=".0001" onInput={handleChange3}></input>
